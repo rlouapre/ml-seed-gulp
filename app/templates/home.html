@@ -1,0 +1,9 @@
+<h1>Sample home template</h1>
+<div class="container" ng-controller="MainCtrl">
+    <button class="btn btn-primary" ng-click="login()">Login</button>
+    <label class="label">{{model.token}}</label>
+    <input type="text" ng-model="model.token"/>
+    <textarea ng-model="model.document"></textarea>
+    <pre>{{model.document}}</pre>
+    <a ui-sref="search">Search</a>
+</div>

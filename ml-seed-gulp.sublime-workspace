@@ -1,0 +1,1684 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"api",
+				"apiPrefix"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"s",
+				"span2"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"cons",
+				"constraint"
+			],
+			[
+				"conta",
+				"constraint"
+			],
+			[
+				"span",
+				"span8"
+			],
+			[
+				"tot",
+				"totalPages"
+			],
+			[
+				"__",
+				"__text"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"c",
+				"columns"
+			],
+			[
+				"ite",
+				"items"
+			],
+			[
+				"data",
+				"dataTable"
+			],
+			[
+				"_",
+				"_template"
+			],
+			[
+				"controls",
+				"controls-row"
+			],
+			[
+				"suc",
+				"successfully"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"file",
+				"fileSelect"
+			],
+			[
+				"ma",
+				"mapping"
+			],
+			[
+				"row",
+				"rowSelected"
+			],
+			[
+				"get",
+				"getTemplate"
+			],
+			[
+				"sav",
+				"saved"
+			],
+			[
+				"click",
+				"clickBinded"
+			],
+			[
+				"import",
+				"importFile"
+			],
+			[
+				"cu",
+				"currentStep"
+			],
+			[
+				"a",
+				"addMessage"
+			],
+			[
+				"save",
+				"saveTemplate"
+			],
+			[
+				"expre",
+				"expression"
+			],
+			[
+				"wai",
+				"wizard"
+			],
+			[
+				"clas",
+				"classDefinition"
+			],
+			[
+				"load",
+				"loadClassDefinition"
+			],
+			[
+				"dat",
+				"dataType"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"g",
+				"get	Get Elements"
+			],
+			[
+				"function",
+				"functionName"
+			],
+			[
+				"selected",
+				"rowSelected"
+			],
+			[
+				"query",
+				"queryType"
+			],
+			[
+				"getc",
+				"getCommentSyntax"
+			],
+			[
+				"passed",
+				"passedCount"
+			],
+			[
+				"re",
+				"report"
+			],
+			[
+				"pass",
+				"passedCount"
+			],
+			[
+				"pa",
+				"parseModule"
+			],
+			[
+				"repo",
+				"reports"
+			],
+			[
+				"w",
+				"warningMessages"
+			],
+			[
+				"e",
+				"errorMessages"
+			],
+			[
+				"parse",
+				"parseTestError"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"select",
+				"selection"
+			],
+			[
+				"sele",
+				"selection"
+			],
+			[
+				"warning",
+				"warningMessage"
+			],
+			[
+				"warn",
+				"warningCount"
+			],
+			[
+				"erro",
+				"errorCount"
+			],
+			[
+				"pli",
+				"plugins"
+			],
+			[
+				"wa",
+				"warnCount"
+			],
+			[
+				"err",
+				"errorCount"
+			],
+			[
+				"Test",
+				"TestSuite"
+			],
+			[
+				"Tes",
+				"TestSuite"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"sourc",
+				"sources"
+			],
+			[
+				"prop",
+				"propertyClassType"
+			],
+			[
+				"mapp",
+				"mappings"
+			],
+			[
+				"valida",
+				"validateMappings"
+			],
+			[
+				"colu",
+				"column"
+			],
+			[
+				"uplo",
+				"uploadButtonText"
+			],
+			[
+				"property",
+				"propertyGroup"
+			],
+			[
+				"propery",
+				"propertySelect"
+			],
+			[
+				"da",
+				"dataTable"
+			],
+			[
+				"she",
+				"sheetName"
+			],
+			[
+				"datat",
+				"dataTable"
+			],
+			[
+				"nameps",
+				"namespace-uri"
+			],
+			[
+				"create",
+				"createTimeline"
+			],
+			[
+				"requ",
+				"requestedUrl"
+			],
+			[
+				"use",
+				"userId"
+			],
+			[
+				"exp",
+				"expect"
+			],
+			[
+				"Microdata",
+				"microdataService"
+			],
+			[
+				"angula",
+				"angular.copy	AngularJS"
+			],
+			[
+				"f",
+				"angular.forEach	AngularJS"
+			],
+			[
+				"$ngd",
+				"$ngd+	$ngdoc - initiating complete skeleton with all @ngdoc-properties"
+			],
+			[
+				"to",
+				".toEqual"
+			],
+			[
+				"templ",
+				"templateAsHtml"
+			],
+			[
+				"date",
+				"datepickerClicked"
+			],
+			[
+				"updateTime",
+				"updateTime"
+			],
+			[
+				"ngModl",
+				"ngModel"
+			],
+			[
+				"template",
+				"templateUrl"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"view",
+				"viewValue"
+			],
+			[
+				"agen",
+				"angular.element	AngularJS"
+			],
+			[
+				"attr",
+				"attr.newValue.data"
+			],
+			[
+				"time",
+				"scope.time"
+			],
+			[
+				"$lo",
+				"$log.log	AngularJS"
+			],
+			[
+				"$moda",
+				"$modalInstance"
+			],
+			[
+				"ng",
+				"ng-click	AngularJS"
+			],
+			[
+				"angular",
+				"angular.element	AngularJS"
+			],
+			[
+				"$ro",
+				"$rootScope"
+			],
+			[
+				"cono",
+				"console"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"matc",
+				"matchall"
+			],
+			[
+				"test",
+				"testXqueryModule"
+			],
+			[
+				"default",
+				"defaultSimple"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"esdms-",
+				"esdms-facet"
+			],
+			[
+				"facet",
+				"facetSettings"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/js/services/queryservice.js",
+			"settings":
+			{
+				"buffer_size": 571,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/controllers/main.js",
+			"settings":
+			{
+				"buffer_size": 852,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/main.js",
+			"settings":
+			{
+				"buffer_size": 2625,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/js/directives/authentication.js",
+			"settings":
+			{
+				"buffer_size": 975,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".eslintrc",
+			"settings":
+			{
+				"buffer_size": 2392,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 844,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/search.html",
+			"settings":
+			{
+				"buffer_size": 94,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 374,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 15321,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/rlouapre/Desktop/Junk/angularfire.js",
+			"settings":
+			{
+				"buffer_size": 30956,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/rlouapre/Projects/workspace/tweet-explorer/angular/Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 9797,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"markod",
+				"Set Syntax: Markdown"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"mvn",
+			"dir",
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/app/js/controllers/search.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/app/css/search.css",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/app/js/services/authenticationservice.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/app/js/directives/authentication.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/app/css/application.scss",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/package.json",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/app/templates/login.html",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/tests/e2e/sample_test.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/app/js/services/encodingservice.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/gulpfile - Copy.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/bower_components/angular-http-auth/src/http-auth-interceptor.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/app/js/controllers/login.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/app/js/main.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/app/index.html",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/Gruntfile.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/bower.json",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/templates/mapping-wizard-step2.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/ml-seed-gulp.sublime-project",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/amc.sublime-project",
+		"/C/Users/rlouapre/Projects/ml/marklogic_sqs/README.md",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/templates/head.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular/angular.js",
+		"/C/Users/rlouapre/Projects/ml/dmlc-isr/microdata-app/ui/app/scripts/controllers/add-data.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed/app/styles/main.scss",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/bower_components/bootstrap-sass/README.md",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/gulpfile.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/node_modules/gulp-sass/package.json",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/scss/application.css",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/bower_components/bootstrap-sass/bower.json",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/bower_components/bootstrap-sass/vendor/assets/stylesheets/bootstrap/_mixins.scss",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/bower_components/bootstrap-sass/vendor/assets/stylesheets/bootstrap/bootstrap.scss",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/bower_components/bootstrap-sass/vendor/assets/stylesheets/bootstrap.scss",
+		"/C/Users/rlouapre/Projects/ml/dmlc-isr/microdata-app/ui/app/styles/main.less",
+		"/C/Users/rlouapre/Projects/ml/dmlc-isr/microdata-app/ui/app/styles/main.css",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/app/css/main.css",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed/app/scripts/controllers/main.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed/app/scripts/app.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/app/templates/home.html",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/ml-seed-gulp/app/css/fonts.css",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/mlyo1/Gruntfile.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/mlyo1/README.mdown",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/mlyo1/rest-api/config/properties.xml",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/mlyo1/ui/app/scripts/app.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/mlyo1/ui/app/scripts/controllers/main.js",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/mlyo1/ui/app/index.html",
+		"/C/Users/rlouapre/Projects/ml/ml-yo/mlyo1/ui/app/views/main.html",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/views/mapping/mapping.index.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/resources/css/wizard.css",
+		"/C/Users/rlouapre/Projects/workspace/tweet-explorer/angular/app/views/main.html",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/bootstrap/bootstrap.css",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/templates/mapping-wizard-step4.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/resources/js/angulartest.js",
+		"/C/Users/rlouapre/Projects/workspace/tweet-explorer/angular/app/scripts/controllers/query.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular-bootstrap-select/angular-bootstrap-select.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/templates/mapping-wizard-step3.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/_framework/base/templates/head.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/bootstrap-select/bootstrap-select.jquery.json",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/index.html",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/bootstrap/bootstrap.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_sqs/roxy/deploy/default.properties",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/resources/css/mapping.css",
+		"/C/Users/rlouapre/Projects/workspace/tweet-explorer/modules/tweets-api.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_sqs/.gitmodules",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/.gitmodules",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/views/wizard/wizard.index.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/templates/mapping-wizard-step6.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/templates/mapping-wizard-step5.html.xqy",
+		"/C/Users/rlouapre/Projects/workspace/tweet-explorer/api/query.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/resources/js/eb.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/resources/js/main.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/resources/js/import.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/resources/js/mapping.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/views/testxml/testxml.index.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/resources/js/testxml.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/templates/mapping-wizard-step1.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/stylesheets/main.css",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/main.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/views/import/import.index.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular-file-upload/angular-file-upload.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/bootstrap-timepicker/bootstrap-timepicker.css",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/_framework/builder.xqy",
+		"/C/Program Files/MarkLogic/Modules/MarkLogic/spell.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/views/eb/eb.index.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular-wizard/angular-wizard.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular-growl/angular-growl.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular-wizard/angular-wizard.less",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular/i18n/angular-locale_zh.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular-growl/angular-growl.css",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/jqgrid/i18n/grid.locale-ro.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/jqgrid/plugins/grid.addons.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/controller/wizard-controller.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/data/config/functionLibraries.xml",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/_framework/base/templates/header.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/_framework/handlers/resource.handler.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/domains/content-domain.xml",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/data/config/dataSources.xml",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular/angular.min.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular-wizard/angular-wizard.min.js",
+		"/C/Users/rlouapre/Projects/workspace/tweet-explorer/angular/app/scripts/services/querytransformer.js",
+		"/C/Users/rlouapre/Projects/workspace/tweet-explorer/angular/app/scripts/services/queryservice.js",
+		"/C/Users/rlouapre/Projects/workspace/tweet-explorer/angular/app/scripts/services/adminservice.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/controller/eb-controller.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/_config/extension.xml",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular-wizard/angular-wizard.css",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular-wizard/angular-wizard.min.css",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/bootstrap-wysihtml5/locales/bootstrap-wysihtml5.it-IT.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular/angular-animate.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/angular/i18n/angular-locale_nl.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/_config/authorization.xml",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/templates/mapping-wizard-step3.html.xqy~RF6093bea8.TMP",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/resources/javascripts/vendor/jquery-fileupload/jquery.fileupload-angular.js",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/data/functions/string-functions.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/templates/main.html.xqy",
+		"/C/Users/rlouapre/Projects/ml/marklogic_amc-git/src/app/templates/footer.html.xqy",
+		"/C/Users/rlouapre/Documents/GitHub/grunt-xray-runner/Gruntfile.js",
+		"/C/Users/rlouapre/Documents/GitHub/grunt-xray-runner/tasks/xray-runner-task.js",
+		"/C/Users/rlouapre/Documents/GitHub/grunt-xray-runner/tasks/lib/runner.js",
+		"/C/Program Files/MarkLogic/Apps/qconsole/static/js/qconsole-keybindings.js",
+		"/C/Program Files/MarkLogic/Apps/qconsole/static/js/qconsole.js",
+		"/C/Program Files/MarkLogic/Apps/qconsole/static/js/tablesorter.js",
+		"/C/Program Files/MarkLogic/Apps/qconsole/static/js/import-validate.js",
+		"/C/Program Files/MarkLogic/Apps/qconsole/static/js/init.js",
+		"/C/Users/rlouapre/Documents/GitHub/xray-runner/test/xray_runner_test.js",
+		"/C/Users/rlouapre/Documents/GitHub/xray-runner/Gruntfile.js",
+		"/C/Users/rlouapre/Documents/GitHub/xray-runner/tasks/xray-runner-task.js",
+		"/C/Users/rlouapre/Documents/GitHub/xray-runner/tasks/lib/runner.js",
+		"/C/Users/rlouapre/Documents/GitHub/xquery-lint-runner/test/xquery_lint_runner_test.js",
+		"/C/Program Files/MarkLogic/Apps/common/codemirror2/mode/xquery/xquery.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\rlouapre\\Projects\\ml\\dmlc-isr\\microdata-app\\ui\\app",
+			"D:\\Projects\\Java\\elasticsearch-workspace\\es-dms\\es-dms-site\\yo\\app\\scripts",
+			"D:\\Projects\\Java\\elasticsearch-workspace\\es-dms\\es-dms-site\\yo\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hintOptions",
+			"'js:hint'",
+			"hintOptions",
+			"js:hint",
+			"jshint",
+			"lint",
+			"encodeBase64",
+			"_utf8_decode",
+			"_utf8_encode",
+			"'event:auth-loginRequired'",
+			"Firebase",
+			"9019",
+			"proxy",
+			"proxy-middleware",
+			"server",
+			"http",
+			"isProduction",
+			"http",
+			"connect",
+			"sass",
+			"ngoptions",
+			"navbar-search",
+			"label",
+			"facets",
+			"addFacet",
+			"getFacets",
+			"facets",
+			"getFacets",
+			"column",
+			"getColumns",
+			"controls",
+			"model.search",
+			"accor",
+			"acc",
+			"accordion",
+			"if",
+			"facets",
+			"C:/Users/rlouapre/Projects/ml/marklogic_sqs/roxy/",
+			"getClasses",
+			".get",
+			"*** transformRequest ***",
+			"setTemplate",
+			"getMappingResult",
+			"current",
+			"pages",
+			"currentPage",
+			"numPages",
+			"metadata",
+			"convertXmlQuery",
+			"search",
+			"removeMapping",
+			"list",
+			"affix",
+			"nav",
+			"side",
+			".for",
+			"each",
+			"eachin",
+			"query",
+			"resultctrl",
+			"getMappingResult",
+			"transformMappingResultRequest",
+			"transformSourceToArray",
+			"transformMappingResultRequest",
+			"transformSourceToArray",
+			"transformRequest",
+			"addXmlHeader",
+			"transformRequest",
+			"transformSourceToArray",
+			"getDataTable",
+			"transformSourceToArray",
+			"getMappingResult",
+			"transformMappingResultRequest",
+			"transformSourceToArray",
+			"transformRequest",
+			"transformSourceToArray",
+			"transformRequest",
+			"Error",
+			"selectData",
+			"transformSourceToArray",
+			"transformRequest",
+			"setSource",
+			"selectDataTable",
+			"Custpm",
+			"table-",
+			"help-inline",
+			"inline",
+			"table",
+			"inline",
+			"PubSubFactory",
+			"pubSub",
+			"PubSubFactory",
+			"validateExpression",
+			"testExpression",
+			"validateExpression",
+			"dynamic",
+			"newTemplate",
+			"getSource",
+			"setSource",
+			"_source",
+			"getSource",
+			"selectDataTable",
+			"selectClass",
+			"getClassDefinition",
+			"testExpression",
+			"functionName",
+			"testExpression",
+			"setExpression",
+			"getClassDefinition",
+			"current",
+			"fields",
+			"classDefinition",
+			"destination",
+			"propertyGroup",
+			"addMessage",
+			"notification",
+			"saveTemplate",
+			"namespace-uri",
+			"setExpression",
+			"saveTemplate",
+			"http://marklogic.com/metadata/template",
+			"$http",
+			"4http",
+			"createXhr",
+			"createHttpBackend",
+			".post",
+			"plugin",
+			"saveTemplate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"utf8Decode",
+			"utf8Encode",
+			"${basedir}",
+			"selectDataTable",
+			"expressionType",
+			"NotificationService",
+			"TemplateBuilder",
+			"column",
+			"accordionFunctions",
+			"dataTableNames",
+			"importBtn",
+			"'",
+			"/mapping",
+			"sampleSize",
+			"destination_value",
+			"imported-data-table",
+			"test-xquery-module",
+			"",
+			"$modalInstance",
+			"droppedObjects",
+			"$dialogInstance",
+			"DialogProvider",
+			"'",
+			"search",
+			"model",
+			".formattedDate ",
+			"scope.timeObject",
+			"dateObject",
+			"dateFilter",
+			"$log.log",
+			"executeXqueryTests",
+			"Array.isArray",
+			"all",
+			"\"",
+			"transformError",
+			"transformModule",
+			"build2:",
+			"SearchCtrl",
+			"~1.2.1",
+			"",
+			"elasticsearch-opennlp-auto-tagging",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/js/services/queryservice.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								443
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/js/controllers/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2289,
+								2289
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/js/directives/authentication.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 975,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								583,
+								583
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".eslintrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2392,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								126
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/templates/search.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								26
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								355,
+								355
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4512,
+								4512
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1894.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/rlouapre/Desktop/Junk/angularfire.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30956,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1538,
+								1546
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/rlouapre/Projects/workspace/tweet-explorer/angular/Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1788,
+								1795
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 774.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ml-seed-gulp.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"search",
+				"app\\js\\controllers\\search.js"
+			],
+			[
+				"authenti",
+				"app\\js\\directives\\authentication.js"
+			],
+			[
+				"angu",
+				"resources\\javascripts\\vendor\\angular\\angular.js"
+			],
+			[
+				"head",
+				"app\\templates\\head.html.xqy"
+			],
+			[
+				"hea",
+				"app\\templates\\head.html.xqy"
+			],
+			[
+				"boot",
+				"resources\\javascripts\\vendor\\bootstrap\\bootstrap.css"
+			],
+			[
+				"main",
+				"resources\\stylesheets\\main.css"
+			],
+			[
+				"mapp",
+				"app\\templates\\mapping-wizard-step1.html.xqy"
+			],
+			[
+				"bootstr",
+				"resources\\javascripts\\vendor\\bootstrap\\bootstrap.css"
+			],
+			[
+				"angular-wi",
+				"resources\\javascripts\\vendor\\angular-wizard\\angular-wizard.js"
+			],
+			[
+				"growl",
+				"resources\\javascripts\\vendor\\angular-growl\\angular-growl.js"
+			],
+			[
+				"angular.",
+				"resources\\javascripts\\vendor\\angular\\angular.js"
+			],
+			[
+				"wiaz",
+				"app\\views\\wizard\\wizard.index.html.xqy"
+			],
+			[
+				"wia",
+				"app\\controller\\wizard-controller.xqy"
+			],
+			[
+				"mapping",
+				"app\\resources\\js\\mapping.js"
+			],
+			[
+				"mapping.",
+				"app\\views\\mapping\\mapping.index.html.xqy"
+			],
+			[
+				"eb",
+				"app\\resources\\js\\eb.js"
+			],
+			[
+				"angular-wiz",
+				"resources\\javascripts\\vendor\\angular-wizard\\angular-wizard.js"
+			],
+			[
+				"wizard-an",
+				"resources\\javascripts\\vendor\\angular-wizard\\angular-wizard.min.js"
+			],
+			[
+				"angular-w",
+				"resources\\javascripts\\vendor\\angular-wizard\\angular-wizard.js"
+			],
+			[
+				"import.s",
+				"app\\resources\\js\\import.js"
+			],
+			[
+				"create",
+				"app\\scripts\\controllers\\createobject.js"
+			],
+			[
+				"app",
+				"app\\scripts\\app.js"
+			],
+			[
+				"dialog",
+				"app\\scripts\\services\\dialog.js"
+			],
+			[
+				"creat",
+				"app\\scripts\\controllers\\createobject.js"
+			],
+			[
+				"index",
+				"app\\index.html"
+			],
+			[
+				"select",
+				"app\\views\\object\\select.html"
+			],
+			[
+				"group",
+				"app\\scripts\\directives\\grouped-search-result.js"
+			],
+			[
+				"dialo",
+				"app\\scripts\\services\\dialog.js"
+			],
+			[
+				"test",
+				"app\\scripts\\controllers\\test.js"
+			],
+			[
+				"crea",
+				"app\\scripts\\controllers\\createobject.js"
+			],
+			[
+				"rela",
+				"app\\views\\object\\relationships.html"
+			],
+			[
+				"dra",
+				"app\\scripts\\vendor\\dragon-drop.js"
+			],
+			[
+				"floa",
+				"app\\scripts\\directives\\floating-tabs.js"
+			],
+			[
+				"even",
+				"app\\views\\object\\Event.html"
+			],
+			[
+				"di",
+				"app\\scripts\\services\\dialog.js"
+			],
+			[
+				"rel",
+				"app\\views\\object\\relationships.html"
+			],
+			[
+				"event",
+				"app\\views\\object\\Event.html"
+			],
+			[
+				"att",
+				"app\\scripts\\services\\attribute.js"
+			],
+			[
+				"attribute",
+				"app\\scripts\\services\\attribute.js"
+			],
+			[
+				"timelin",
+				"app\\views\\object\\Timeline.html"
+			],
+			[
+				"attr",
+				"app\\scripts\\services\\attribute.js"
+			],
+			[
+				"attribu",
+				"app\\scripts\\services\\attribute.js"
+			],
+			[
+				"attrib",
+				"app\\scripts\\models\\attribute.js"
+			],
+			[
+				"mic",
+				"app\\scripts\\services\\microdata.js"
+			],
+			[
+				"rich",
+				"app\\scripts\\controllers\\rich-text.js"
+			],
+			[
+				"grouped",
+				"app\\scripts\\directives\\grouped-search-result.js"
+			],
+			[
+				"groupd",
+				"app\\views\\component\\search\\grouped-search-result.html"
+			],
+			[
+				"secuti",
+				"app\\scripts\\directives\\security.js"
+			],
+			[
+				"valid",
+				"app\\scripts\\directives\\valid-timestamps.js"
+			],
+			[
+				"value",
+				"app\\scripts\\models\\value.js"
+			],
+			[
+				"attri",
+				"app\\scripts\\services\\attribute.js"
+			],
+			[
+				"groupe",
+				"app\\scripts\\directives\\grouped-search-result.js"
+			],
+			[
+				"http",
+				"app\\scripts\\vendor\\httpBackendStub.js"
+			],
+			[
+				"flo",
+				"app\\views\\map-overlays\\floating-tabs.html"
+			],
+			[
+				"riche",
+				"app\\scripts\\controllers\\rich-text.js"
+			],
+			[
+				"inde",
+				"app\\index.html"
+			],
+			[
+				"searhc",
+				"app\\scripts\\services\\search.js"
+			],
+			[
+				"float",
+				"app\\views\\map-overlays\\floating-tabs.html"
+			],
+			[
+				"floating",
+				"app\\scripts\\directives\\floating-tabs.js"
+			],
+			[
+				"tab",
+				"app\\views\\map-overlays\\floating-tabs.html"
+			],
+			[
+				"feature",
+				"app\\views\\object\\Feature.html"
+			],
+			[
+				"karma",
+				"C:\\Users\\rlouapre\\Projects\\ml\\dmlc-isr\\microdata-app\\karma.conf.js"
+			],
+			[
+				"grunt",
+				"app\\bower_components\\typeahead.js\\Gruntfile.js"
+			],
+			[
+				"evnet",
+				"app\\views\\object\\Event.html"
+			],
+			[
+				"datepicker",
+				"app\\scripts\\directives\\ml-datetime-picker.js"
+			],
+			[
+				"timepick",
+				"app\\scripts\\directives\\timepicker-popup.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"edmsheader",
+				"app\\scripts\\directives\\esdmsSearchResultHeader.js"
+			],
+			[
+				"nav",
+				"app\\scripts\\controllers\\navbar.js"
+			],
+			[
+				"esdmsse",
+				"app\\scripts\\directives\\esdmsSearchResult.js"
+			],
+			[
+				"navba",
+				"app\\scripts\\controllers\\navbar.js"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"tag",
+				"app\\scripts\\controllers\\search\\tags.js"
+			],
+			[
+				"wordclo",
+				"app\\scripts\\directives\\esdmsWordCloud.js"
+			],
+			[
+				"processs",
+				"app\\scripts\\services\\processService.js"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"nava",
+				"app\\scripts\\controllers\\navbar.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
