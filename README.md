@@ -47,6 +47,7 @@ Finally, fire up the server
 - NodeJS proxy ressources [1], [2].  
 - Requires node-sass 0.8.3 or above [3].  
 - Requires eslint (should be automatically installed by gulp-eslint)  
+- Include unit tests with Karma Test Runner. Tests should be stored in tests/unit (Note Boom generator does not provide a command to create them).
 
 [1] - https://blog.nodejitsu.com/http-proxy-middlewares/  
 [2] - https://github.com/nodejitsu/node-http-proxy  

@@ -14,13 +14,13 @@ var gutil      = require('gulp-util'),
     watch      = require('gulp-watch'),
     plumber    = require('gulp-plumber'),
     gulpif     = require('gulp-if'),
-    jshint     = require('gulp-jshint'),
+    // jshint     = require('gulp-jshint'),
     eslint     = require('gulp-eslint'),
     stylish    = require('jshint-stylish'),
     path       = require('path'),
     connect    = require('connect'),
-    // httpProxy       = require('http-proxy'),
-    // proxy      = require('proxy-middleware'),
+    connectlr  = require('connect-livereload'),
+    httpProxy  = require('http-proxy'),
     http       = require('http'),
     open       = require('open'),
     refresh    = require('gulp-livereload'),
@@ -28,6 +28,7 @@ var gutil      = require('gulp-util'),
     livereload = tinylr(),
     zip        = require('gulp-zip'),
     fs         = require('fs'),
+    karma      = require('gulp-karma'),
     browserSync = require('browser-sync');
 
     require('gulp-grunt')(gulp);
@@ -62,13 +63,16 @@ var gutil      = require('gulp-util'),
     };
 
     // jsHint Options.
-    var hintOptions = JSON.parse(fs.readFileSync('.jshintrc', 'utf8'));
+    // var hintOptions = JSON.parse(fs.readFileSync('.jshintrc', 'utf8'));
 
     // eslint Options.
     var eslintOptions = JSON.parse(fs.readFileSync('.eslintrc', 'utf8'));
 
     // Flag for generating production code.
     var isProduction = false;
+
+    // Karma test files.
+    var testFiles = './idontexist';
 
 
 /*============================================================
@@ -77,7 +81,6 @@ var gutil      = require('gulp-util'),
 
     gulp.task('local:server', function () {
 
-        var httpProxy = require('http-proxy');
         var options = {
             target: settings.marklogic.baseRestUri
         };
@@ -85,7 +88,7 @@ var gutil      = require('gulp-util'),
         var proxy = httpProxy.createProxyServer(options);
 
         var middleware = [
-            require('connect-livereload')({ port: settings.livereloadPort }),
+            connectlr({ port: settings.livereloadPort }),
             connect.static(settings.build.app),
             connect.directory(settings.build.app)
         ];
@@ -128,6 +131,32 @@ var gutil      = require('gulp-util'),
         gulp.run('local:server', 'tinylr');
     });
 
+/*============================================================
+=                          Karma Test Runner                =
+============================================================*/
+
+    /* Ugly workaround - https://github.com/lazd/gulp-karma/issues/9#issuecomment-33034291 */
+    gulp.task('test:unit', function () {
+        console.log('-------------------------------------------------- Karma - Test');
+        // Be sure to return the stream
+        return gulp.src(testFiles)
+            .pipe(karma({
+                configFile: 'karma.conf.js',
+            action: 'run'
+        }))
+        .on('error', function(err) {
+            // Make sure failed tests cause gulp to exit non-zero
+            throw err;
+        });
+    });
+
+/*============================================================
+=                          Protractor end 2 end test        =
+============================================================*/
+
+    gulp.task('test:e2e', function () {
+        console.log('PROTRACTOR task is missing!!!');
+    });
 
 
 /*============================================================
@@ -135,7 +164,7 @@ var gutil      = require('gulp-util'),
 ============================================================*/
 
     gulp.task('es:lint', function () {
-        console.log('-------------------------------------------------- JS - HINT');
+        console.log('-------------------------------------------------- ES - LINT');
         gulp.src([settings.src.js+'main.js', '!'+settings.src.js+'libs/*.js', settings.src.js+'**/*.js'])
             .pipe(eslint(eslintOptions))
             .pipe(eslint.format());
@@ -145,13 +174,13 @@ var gutil      = require('gulp-util'),
 =                          JS-HINT                          =
 ============================================================*/
 
-    gulp.task('js:hint', function() {
+    // gulp.task('js:hint', function() {
 
-        console.log('-------------------------------------------------- JS - HINT');
-        gulp.src([settings.src.js+'main.js', '!'+settings.src.js+'libs/*.js', settings.src.js+'**/*.js'])
-            .pipe(jshint(hintOptions))
-            .pipe(jshint.reporter(stylish));
-    });
+    //     console.log('-------------------------------------------------- JS - HINT');
+    //     gulp.src([settings.src.js+'main.js', '!'+settings.src.js+'libs/*.js', settings.src.js+'**/*.js'])
+    //         .pipe(jshint(hintOptions))
+    //         .pipe(jshint.reporter(stylish));
+    // });
 
 
 /*============================================================
@@ -406,6 +435,16 @@ var gutil      = require('gulp-util'),
 
     });
 
+
+
+/*============================================================
+=                             Tests                          =
+============================================================*/
+
+
+    gulp.task('test', function() {
+        gulp.run('es:lint', 'test:unit', 'test:e2e');
+    });
 
 
 /*============================================================
